@@ -1,25 +1,73 @@
-<h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">I'm a passionate coder creating useful apps, websites, and ML/DL models, constantly improving my skills to meet user needs.</h3>
+# Amar Jyoti
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amar-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="amar-cmd" /> </p>
+**AI Product • Product Analytics • GenAI SaaS • SQL & Python**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amar-cmd" alt="amar-cmd" /></a> </p>
+I build AI-assisted products and analytics workflows that solve practical operational problems. My background combines a **B.Tech in Computer Science (AI & Data Science)** with a **PGDM in Finance & Business Analytics**, giving me both technical depth and business context.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I am especially interested in **AI Product, Product Analytics, Technical Product, AI Solutions, and GenAI-focused analyst roles** where product thinking, analytics, workflow design, and hands-on building come together.
 
-- 🔭 I’m currently working on [Python Mastery Series](https://www.youtube.com/playlist?list=PLoisYo0ETDv7KWCyR_3bKLDRvfXNFN_Pj)
+## Featured work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://youtube.com/@infiniteloop-pf2rr?si=zdhyvdaz8jfk9kky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@infiniteloop-pf2rr?si=zdhyvdaz8jfk9kky" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/RtgtvQXpMP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/RtgtvQXpMP" height="30" width="40" /></a>
-</p>
+### AI Subjective Evaluation Engine — Project Z
+**Professor-first GenAI SaaS for rubric-grounded subjective-answer evaluation**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Built and deployed an end-to-end academic evaluation workflow covering exam and rubric setup, LMS response ingestion, answer mapping, AI evaluation, professor review/re-evaluation, and final-marks export.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amar-cmd&show_icons=true&locale=en&layout=compact" alt="amar-cmd" /></p>
+- Human-in-the-loop design with the **professor as final authority**
+- Multi-tenant access control with **Supabase/PostgreSQL + RLS**
+- Background mapping/evaluation jobs, retries, recovery, auditability, and immutable exports
+- Controlled technical validation on a **50-student × 2-question fixture**: **100 mappings, 100 evaluation tasks, 100 successful AI evaluations, 0 failed evaluation tasks**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amar-cmd&show_icons=true&locale=en" alt="amar-cmd" /></p>
+**Stack:** Next.js · TypeScript · Supabase/PostgreSQL · Auth/RLS · Gemini · Vercel  
+**Live:** https://projectz.vercel.app  
+_Source repository is private; the live product requires login._
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amar-cmd&" alt="amar-cmd" /></p>
+### AI Buddy — AI-Powered College Assistance Chatbot
+Full-stack AI assistant with authenticated chat, a managed knowledge base, caching, rate limiting, and multi-provider LLM fallback with provider-level diagnostics.
+
+**Stack:** Next.js · Supabase/PostgreSQL · Gemini · Groq · OpenRouter · Cloudflare AI  
+**Repository:** https://github.com/Amar-cmd/college-ai-helpdesk-chatbot  
+**Live:** https://college-ai-helpdesk-chatbot.vercel.app
+
+### Placement Cell Data Processing & Workflow Automation
+Automated consolidation, standardization, routing, and highlighting of responses from multiple Google Forms across Google Sheets, reducing repetitive manual processing effort by approximately **50–60%**.
+
+**Repository:** https://github.com/Amar-cmd/Placement-Copilot-Vercel  
+**Live:** https://placement-copilot-vercel.vercel.app
+
+### Counterfactual Learning in Customer Churn Prediction under Class Imbalance
+Analyzed customer churn under class imbalance and documented the modeling approach and findings through a research paper, including counterfactual-learning methods for model explanation.
+
+**Repository:** https://github.com/Amar-cmd/Counterfactual-Learning-In-Customer-Churn-Prediction-Under-Class-Imbalance
+
+## Experience highlights
+
+**Product Testing & Research Intern — Fooracles**  
+Benchmarked **18 SaaS competitors**, conducted detailed feature and UX/UI analysis across **10 key products**, and translated findings into Figma-based product/interface recommendations, with selected recommendations adopted.
+
+**Founder & Technical Educator — Premier Programmer**  
+Published **165+ Python tutorials**, **40+ hours of content**, **750+ coding questions**, and **25 hands-on projects** focused on practical programming and AI learning.
+
+## Core capabilities
+
+**Product & Analytics:** Product Analytics · SQL/PostgreSQL · Python/Pandas · Business Analytics · Power BI · Advanced Excel · Competitive Analysis · UX Research
+
+**AI & Automation:** Generative AI · LLM APIs · Prompt Design · Human-in-the-Loop AI · AI Evaluation Workflows · Workflow Automation
+
+**Build & Prototype:** Next.js · TypeScript · Supabase · Git · Vercel · Figma
+
+## Education
+
+- **PGDM — Finance & Business Analytics**, IMS Ghaziabad · **CGPA 9.27/10 (Year 1)** · 2025–2027
+- **B.Tech — CSE (AI & Data Science)**, Galgotias University · **CGPA 8.81/10, First Class with Distinction** · 2020–2024
+
+## Selected recognition
+
+- Regional Qualifier — AIMA Business Simulation
+- ₹50,000 B.Tech Merit Scholarship
+- Finance Core Member — Finnacle, The Finance Club
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/a-jyoti/
+- **YouTube — Premier Programmer:** https://www.youtube.com/@PremierProgrammer
