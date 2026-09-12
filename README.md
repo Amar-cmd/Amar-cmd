@@ -29,14 +29,14 @@ Full-stack AI assistant with authenticated chat, a managed knowledge base, cachi
 **Repository:** https://github.com/Amar-cmd/college-ai-helpdesk-chatbot  
 **Live:** https://college-ai-helpdesk-chatbot.vercel.app
 
-### Placement Cell Data Processing & Workflow Automation
-Automated consolidation, standardization, routing, and highlighting of responses from multiple Google Forms across Google Sheets, reducing repetitive manual processing effort by approximately **50–60%**.
+### Placement Copilot
+A Vercel-ready AI application that accepts a job description and resume, then produces evidence-first role analysis, ATS feedback, tailoring support, skill-gap guidance, interview preparation and application messaging.
 
 **Repository:** https://github.com/Amar-cmd/Placement-Copilot-Vercel  
 **Live:** https://placement-copilot-vercel.vercel.app
 
-### Counterfactual Learning in Customer Churn Prediction under Class Imbalance
-Analyzed customer churn under class imbalance and documented the modeling approach and findings through a research paper, including counterfactual-learning methods for model explanation.
+### Customer Churn Analysis under Class Imbalance
+Analyzed customer churn under class imbalance and documented the modeling approach and findings through a research paper.
 
 **Repository:** https://github.com/Amar-cmd/Counterfactual-Learning-In-Customer-Churn-Prediction-Under-Class-Imbalance
 
